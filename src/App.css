@@ -1,5 +1,5 @@
 body {
-  background-image: url(./hsoub-logo.png);
+  background-image: url(./logo.png);
   background-position: 95% 17px;
   background-repeat: no-repeat;
   background-size: 125px 40px;
@@ -16,7 +16,7 @@ body {
 .notes-section {
   position: relative;
   width: 25%;
-  background-color: #595f68;
+  background-color: #00838F;
 }
 
 .preview-section {
@@ -60,7 +60,7 @@ body {
 }
 
 .note-item.active {
-  background-color: #573d7d;
+  background-color: #006064;
 }
 
 .form-input {
